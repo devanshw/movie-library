@@ -8,6 +8,7 @@ favourite or not (icon)
 input prop - info about movie - object 
 */
 
+import "../css/MovieCard.css"
 function MovieCard({movie}) {
 
     return <div className="movie-card">
